@@ -1,0 +1,1 @@
+# Submission Notes\n- Used Groq API for generation due to laptop RAM limits (spec section 8).\n- Fine-tuning and LoRA merging were not attempted due to hardware constraints.
